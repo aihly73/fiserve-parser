@@ -9,6 +9,10 @@
   },
   "keywords": [],
   "author": "James Roller, Jr. <james.roller@aspencapital.com>",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "graceful-fs": "^4.1.11"
+  },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
     "eslint": "^4.16.0"
