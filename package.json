@@ -11,7 +11,8 @@
   "author": "James Roller, Jr. <james.roller@aspencapital.com>",
   "dependencies": {
     "bluebird": "^3.5.1",
-    "graceful-fs": "^4.1.11"
+    "graceful-fs": "^4.1.11",
+    "moment": "^2.20.1"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
